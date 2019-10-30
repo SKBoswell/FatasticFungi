@@ -6,5 +6,20 @@ body{
     background-image: url("./images/banner.jpg");
     opacity: 0.75;
     color: white;
+    width: auto;
+}
 
+.medicinal-apps {
+    width: 100%;
+    text-align: center;
+    padding: 24px;
+}
+
+.medicinal-app-text {
+    margin: auto;
+    text-align: left;
+}
+
+span {
+    font-weight: bold;
 }
