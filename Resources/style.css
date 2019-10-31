@@ -23,3 +23,7 @@ body{
 span {
     font-weight: bold;
 }
+
+.active {
+    display: none;
+}
